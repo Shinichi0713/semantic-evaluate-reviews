@@ -5,3 +5,8 @@
 
 # 課題
 アンケート
+
+
+# NLPファンデーションモデル選定
+
+https://qiita.com/skillup_ai/items/ddeaa9190c2f6447ad09
