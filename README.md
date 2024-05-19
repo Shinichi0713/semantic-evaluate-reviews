@@ -8,5 +8,5 @@
 
 
 # NLPファンデーションモデル選定
-
-https://qiita.com/skillup_ai/items/ddeaa9190c2f6447ad09
+使用するLLMモデルの選定を行う
+参考:[https://qiita.com/skillup_ai/items/ddeaa9190c2f6447ad09](https://github.com/llm-jp/awesome-japanese-llm?tab=readme-ov-file#embeddings)
